@@ -47,13 +47,9 @@ Facilitar o acesso a ferramentas de orientação profissional, como currículo, 
 *Como Executar no Portugol Studio?*
 
 1.Baixe o Portugol Studio
-
 2.Crie um novo programa
-
 3.Cole o código do SKILLUP
-
 4.Execute (F9)
-
 5.Navegue usando as opções numéricas do menu
 
 
