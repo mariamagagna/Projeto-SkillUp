@@ -4,17 +4,17 @@
 Projeto desenvolvido para auxiliar jovens aprendizes e cotistas do SESI/SENAI no acesso a oportunidades profissionais, preparação para entrevistas e organização de currículo – tudo implementado em Portugol.
 
 
-Situação-Problema
+*Situação-Problema*
 
 Jovens em início de carreira enfrentam dificuldades como falta de informação, baixa preparação para processos seletivos, pouca experiência e ausência de orientação vocacional. O SKILLUP busca reduzir essas barreiras oferecendo ferramentas simples e educativas de apoio profissional.
 
 
-Objetivo do Projeto
+*Objetivo do Projeto*
 
 Facilitar o acesso a ferramentas de orientação profissional, como currículo, teste vocacional e avaliação de empregabilidade, ajudando jovens a se prepararem melhor para entrevistas e oportunidades.
 
 
-Conceitos Utilizados
+*Conceitos Utilizados*
 
 - Vetores e matrizes (armazenamento de currículos, habilidades e cursos)
 - Laços de repetição (menus e cadastros)
@@ -24,7 +24,7 @@ Conceitos Utilizados
 - Menu interativo estruturado por opções numéricas
 
 
-Funcionalidades (Resumo)
+*Funcionalidades (Resumo)*
 
 ✔ Preparação para entrevista (pontos fortes, fracos, área, prontidão)
 
@@ -52,38 +52,39 @@ Funcionalidades (Resumo)
 5.Navegue usando as opções numéricas do menu
 
 
-Estrutura do Menu
-1 – Preparação para Entrevista
-2 – Índice de Empregabilidade
-3 – Criar Currículo
-4 – Listar Currículos
-5 – Teste Vocacional
+*Estrutura do Menu*
+
+1. Preparação para Entrevista
+2. Índice de Empregabilidade
+3. Criar Currículo
+4. Listar Currículos
+5. Teste Vocacional
 0 – Sair
 
 
-Dados Armazenados
+*Dados Armazenados*
 
 - O sistema guarda, temporariamente (em vetores):
 
-Nome
-Idade
-Objetivo profissional
-3 habilidades
-3 cursos realizados
+- Nome
+- Idade
+- Objetivo profissional
+- 3 habilidades
+- 3 cursos realizados
 
 Máximo: 50 currículos cadastrados.
 
 
-Observações
+*Observações*
 
-Os dados não são salvos em arquivo (somem ao fechar).
-O teste vocacional é simples e educativo.
-Não possui sistema de login.
-Funciona apenas no console.
+- Os dados não são salvos em arquivo (somem ao fechar).
+- O teste vocacional é simples e educativo.
+- Não possui sistema de login.
+- Funciona apenas no console.
 
 
-Próximos Passos
+*Próximos Passos*
 
-Salvar currículos em arquivo .txt
-Criar login para usuários e empresas
-Criar versão web do sistema (HTML ou CSS)
+- Salvar currículos em arquivo .txt
+- Criar login para usuários e empresas
+- Criar versão web do sistema (HTML ou CSS)
