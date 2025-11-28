@@ -61,7 +61,7 @@ Facilitar o acesso a ferramentas de orientação profissional, como currículo, 
 3. Criar Currículo
 4. Listar Currículos
 5. Teste Vocacional
-0 – Sair
+0. Sair
 
 
 
