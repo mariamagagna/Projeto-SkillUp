@@ -63,10 +63,15 @@ Facilitar o acesso a ferramentas de **orientação profissional**, oferecendo:
 ## ✨ Funcionalidades
 
 ✔ 🗣️ **Preparação para entrevista**
+
 ✔ 📊 **Cálculo do Índice de Empregabilidade**
+
 ✔ 📝 **Criador de Currículo**
+
 ✔ 📋 **Listagem de Currículos Cadastrados**
+
 ✔ 🧭 **Teste Vocacional** (TI, Administração, Comunicação, Indústria)
+
 ✔ 🔙 **Menu simples com retorno automático**
 
 ---
