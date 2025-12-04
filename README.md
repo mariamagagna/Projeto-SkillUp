@@ -1,10 +1,15 @@
 # Projeto-SkillUp 
 
 SENAI Lindolfo Collor.
+
 Eduarda dos Santos Pereira, Kamile Sfolias Szerwieski, Luíza de Lima Martins, Maria Eduarda Bohrer Magagna e Sophia Machado da Rosa.
+
 05/12/2025.
+
 Professor Andrei Subtil Doberstein.
+
 Turma Ana Néri - 2° ano.
+
 Lógica de programação.
 
 *SKILLUP – Sistema de Apoio Profissional* 
