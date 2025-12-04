@@ -1,7 +1,3 @@
-Aqui está o conteúdo transformado em um **README.md** organizado, moderno e cheio de **emojis**, pronto para colocar no GitHub! 🚀📄
-
----
-
 # 💼 Projeto **SKILLUP – Sistema de Apoio Profissional**
 
 📍 **SENAI Lindolfo Collor**
@@ -128,7 +124,3 @@ O sistema guarda (temporariamente):
 * 💾 Salvar currículos em arquivo `.txt`
 * 🔐 Criar login para usuários e empresas
 * 🌐 Desenvolver versão web (HTML/CSS/JS)
-
----
-
-Se quiser, também posso gerar uma **versão estilizada com Markdown avançado**, adicionar **badges**, ou ajudar a criar o **repositório GitHub**! 🚀
