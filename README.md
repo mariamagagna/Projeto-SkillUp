@@ -5,10 +5,15 @@ Aqui está o conteúdo transformado em um **README.md** organizado, moderno e ch
 # 💼 Projeto **SKILLUP – Sistema de Apoio Profissional**
 
 📍 **SENAI Lindolfo Collor**
+
 👩‍💻 **Eduarda dos Santos Pereira, Kamile Sfolias Szerwieski, Luíza de Lima Martins, Maria Eduarda Bohrer Magagna e Sophia Machado da Rosa**
+
 📅 **05/12/2025**
+
 👨‍🏫 **Professor:** Andrei Subtil Doberstein
+
 🏫 **Turma:** Ana Néri – 2° ano
+
 💡 **Disciplina:** Lógica de Programação
 
 ---
