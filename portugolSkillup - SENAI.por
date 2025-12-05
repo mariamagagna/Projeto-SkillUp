@@ -231,8 +231,8 @@ programa {
 
                 para (j = 0; j < 3; j++){
                   escreva("  - ", habilidades[i][j], "\n")
-                  escreva("Cursos:\n") 
                 }
+                escreva("Cursos:\n")
                 para (j = 0; j < 3; j++){
                   escreva("  - ", cursos[i][j], "\n")
                   escreva("\n")
