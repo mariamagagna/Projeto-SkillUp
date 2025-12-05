@@ -235,7 +235,6 @@ programa {
                 escreva("Cursos:\n")
                 para (j = 0; j < 3; j++){
                   escreva("  - ", cursos[i][j], "\n")
-                  escreva("\n")
                 }
             }
         }
